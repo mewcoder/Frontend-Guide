@@ -4,4 +4,3 @@
 ### 努力学习 更新中
 
 - [前端必备书籍](/books/前端书籍列表.md)
-![frontend.png](https://s1.ax1x.com/2020/07/14/UaD1wF.png)
